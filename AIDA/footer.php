@@ -1,6 +1,6 @@
 <div class="footer">
 	<div class="sixteen columns">
 		<hr />
-		<h6>Patrice Callan</h6>
+		<h5>Patrice Callan</h5>
 	</div>
 </div>
